@@ -56,6 +56,7 @@ where 3 is the number of clusters the user wants to create.
 
 More About this algorithm:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 This algorithm creates the clusters of the elements found in the dataset2.data file. You can create your own file 
 or create a new dataset file using the following generator::
 	
