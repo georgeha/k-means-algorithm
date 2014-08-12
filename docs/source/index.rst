@@ -56,11 +56,14 @@ where 3 is the number of clusters the user wants to create.
 
 More About this algorithm:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-This algorithm creates the clusters of the elements found in the dataset2.data file. You can create your own file or create a new dataset file using the following generator::
+This algorithm creates the clusters of the elements found in the dataset2.data file. You can create your own file or create a new dataset 
+file using the following generator::
 	
 	curl -O https://raw.githubusercontent.com/georgeha/k-means-algorithm/master/creating_dataset.py
 
-python creating_dataset.py (number_of_elements)
+run via command line::
+
+	python creating_dataset.py (number_of_elements)
 
 The algorithm takes the elements from the dataset2.data file. Then, it chooses the first k centroids using the
 quickselect algorithm. 
