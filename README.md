@@ -1,4 +1,6 @@
 k-means-algorithm
 =================
 
-This is an implementation of k-means algorithm using the radical pilot api.
+To read the documentation of k-means algorithm click the following link:
+
+http://k-means.readthedocs.org/en/latest/
