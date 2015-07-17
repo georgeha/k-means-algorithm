@@ -40,7 +40,7 @@ Finally, you need to download the source files of k-means algorithm::
 
 	curl -O https://raw.githubusercontent.com/georgeha/k-means-algorithm/master/finding_new_centroids.py
 
-	curl -O https://raw.githubusercontent.com/georgeha/k-means-algorithm/master/dataset2.data
+	curl -O https://raw.githubusercontent.com/georgeha/k-means-algorithm/master/dataset4.data
 
 
 
